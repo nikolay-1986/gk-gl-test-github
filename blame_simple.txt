@@ -1,4 +1,5 @@
 Line 1: Initial content for blame testing
 Line 2: MODIFIED - This line was changed for blame testing
-Line 3: Third line of the file
+Line 3: UPDATED - Third line modified in third commit
 Line 4: NEW - Added in second commit
+Line 5: FINAL - Added in third commit for blame testing
