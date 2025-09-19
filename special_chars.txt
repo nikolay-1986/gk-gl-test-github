@@ -1,0 +1,4 @@
+This is a file with special characters: ñáéíóú 测试 файл
+It contains UTF-8 characters for testing.
+Special symbols: !@#$%^&*()
+Unicode: 🚀 🎉 🔥

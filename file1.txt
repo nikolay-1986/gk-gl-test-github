@@ -1,0 +1,4 @@
+This is the initial content of file1.txt
+It will be modified for stash testing.
+Line 3 content
+Line 4 content
