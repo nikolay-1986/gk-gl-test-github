@@ -119,3 +119,10 @@ Line 118: Large file content for blame testing
 Line 119: Large file content for blame testing
 Line 120: Large file content for blame testing
 Line 121: Large file content for blame testing
+Line 122: Large file content for blame testing
+Steps:
+- Open Commit Composer with 3+ draft commits
+- Select the 3rd commit
+- Make some changes (edit message, move hunks, etc.)
+- Click 'Reset' button
+- Observe which commit is selected after reset
