@@ -1,0 +1,2 @@
+Feature commit 2 - Before merge
+This is the second commit on the feature branch.
