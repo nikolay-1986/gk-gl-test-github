@@ -8,3 +8,4 @@ Line 7: More content here
 Line 8: Testing protected branch scenarios
 Line 9: This branch has local commits
 Line 10: Final line of protected file 01
+Line 11: Additional change for second commit
