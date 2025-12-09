@@ -5,3 +5,4 @@ Line 4: Second emoji commit ✨
 Line 5: Third emoji commit 🎉
 Line 6: Unicode Chinese commit
 Line 7: Unicode Russian commit
+Line 8: Double quotes commit
