@@ -10,3 +10,4 @@ Line 9: Almost at the minimum line count
 Line 10: Final line for this file
 Line 11: Extra line for good measure
 Line 12: Additional content to ensure substantial size
+Line 13: New line added to file 01
