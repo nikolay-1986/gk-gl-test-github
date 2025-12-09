@@ -1,0 +1,12 @@
+Line 1: Third file in the large file test series
+Line 2: Testing commit operations with multiple files
+Line 3: Git handles large changesets efficiently
+Line 4: This file has its own unique content
+Line 5: Line five adds more data to the file
+Line 6: Six line continues the pattern
+Line 7: Seven line with test information
+Line 8: Eight line maintains consistency
+Line 9: Nine line nearing completion
+Line 10: Ten line completes the minimum
+Line 11: Additional line for buffer
+Line 12: Final line of file three

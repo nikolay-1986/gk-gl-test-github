@@ -1,0 +1,12 @@
+Line 1: Fifth file in the large changeset
+Line 2: Testing multi-file commit operations
+Line 3: Git diff will show all changes
+Line 4: Each file contributes to total lines
+Line 5: This simulates feature development
+Line 6: Multiple files changed together
+Line 7: Line seven adds test data
+Line 8: Eight line continues pattern
+Line 9: Nine line nears completion
+Line 10: Ten line meets requirement
+Line 11: Additional line eleven
+Line 12: Final line for file five

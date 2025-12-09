@@ -1,0 +1,12 @@
+Line 1: This is a large file with multiple lines of content
+Line 2: Testing large file changes for git operations
+Line 3: Each file will have at least 10 lines
+Line 4: This helps test performance and diff handling
+Line 5: Content can be anything, just needs volume
+Line 6: Adding more lines to reach the minimum
+Line 7: This is line seven with some data
+Line 8: Continuing to add content here
+Line 9: Almost at the minimum line count
+Line 10: Final line for this file
+Line 11: Extra line for good measure
+Line 12: Additional content to ensure substantial size

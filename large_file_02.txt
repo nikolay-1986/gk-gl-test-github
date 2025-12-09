@@ -1,0 +1,12 @@
+Line 1: Second large file with different content
+Line 2: Various test scenarios for git diff
+Line 3: Multiple files help test batch operations
+Line 4: Each file is unique but similarly structured
+Line 5: Content varies across different files
+Line 6: This is the sixth line of file two
+Line 7: Seventh line contains more test data
+Line 8: Eight line keeps adding content
+Line 9: Nine line approaches the end
+Line 10: Ten line meets minimum requirement
+Line 11: Bonus content in line eleven
+Line 12: Extra line twelve for completeness

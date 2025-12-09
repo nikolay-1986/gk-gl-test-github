@@ -1,0 +1,12 @@
+Line 1: Fourth file for comprehensive testing
+Line 2: Large changesets test git performance
+Line 3: Multiple files simulate real development
+Line 4: Each line adds to the overall diff
+Line 5: Content is spread across many files
+Line 6: This creates a realistic test scenario
+Line 7: Line seven adds more volume
+Line 8: Eight line continues building content
+Line 9: Nine line approaches target
+Line 10: Ten line reaches minimum threshold
+Line 11: Extra content for robustness
+Line 12: Completing file four content
