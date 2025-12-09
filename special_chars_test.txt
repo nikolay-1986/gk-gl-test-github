@@ -7,3 +7,4 @@ Line 6: Unicode Chinese commit
 Line 7: Unicode Russian commit
 Line 8: Double quotes commit
 Line 9: Single quotes commit
+Line 10: Multi-line commit message
