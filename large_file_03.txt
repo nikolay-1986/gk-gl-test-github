@@ -10,3 +10,4 @@ Line 9: Nine line nearing completion
 Line 10: Ten line completes the minimum
 Line 11: Additional line for buffer
 Line 12: Final line of file three
+Line 13: New line added to file 03
