@@ -1,0 +1,10 @@
+Protected Branch File 1
+This file is part of the protected branch
+Line 3: Testing protected branch functionality
+Line 4: Local commits only, not pushed to remote
+Line 5: Content for protected branch testing
+Line 6: Additional line for completeness
+Line 7: More content here
+Line 8: Testing protected branch scenarios
+Line 9: This branch has local commits
+Line 10: Final line of protected file 01

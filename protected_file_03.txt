@@ -1,0 +1,10 @@
+Protected Branch File 3
+Third file demonstrating local commits
+Line 3: Protected branch with unpushed changes
+Line 4: Testing git branch protection
+Line 5: Multiple commits in this branch
+Line 6: Local repository state
+Line 7: Branch has commits not on remote
+Line 8: Testing protected branch scenarios
+Line 9: Local changes only
+Line 10: Final line of protected file 03

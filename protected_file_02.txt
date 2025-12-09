@@ -1,0 +1,10 @@
+Protected Branch File 2
+Second file in the protected branch
+Line 3: Multiple files for testing
+Line 4: Local commits demonstrate branch protection
+Line 5: Content varies across files
+Line 6: Testing various scenarios
+Line 7: Protected branch functionality
+Line 8: Local changes not yet pushed
+Line 9: Branch protection testing
+Line 10: Final line of protected file 02
