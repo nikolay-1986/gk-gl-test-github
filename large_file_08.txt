@@ -10,3 +10,4 @@ Line 9: Nine line approaches completion
 Line 10: Ten line meets criteria
 Line 11: Additional content line
 Line 12: Final line for file eight
+Line 13: New line added to file 08
