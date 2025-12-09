@@ -8,3 +8,4 @@ Line 7: Branch has commits not on remote
 Line 8: Testing protected branch scenarios
 Line 9: Local changes only
 Line 10: Final line of protected file 03
+Line 11: Fourth commit with additional changes
