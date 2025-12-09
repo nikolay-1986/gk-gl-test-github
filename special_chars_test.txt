@@ -4,3 +4,4 @@ Line 3: First emoji commit 🚀
 Line 4: Second emoji commit ✨
 Line 5: Third emoji commit 🎉
 Line 6: Unicode Chinese commit
+Line 7: Unicode Russian commit
