@@ -1,3 +1,4 @@
 Test file for emoji commits
 Line 2: Testing special characters
 Line 3: First emoji commit 🚀
+Line 4: Second emoji commit ✨
