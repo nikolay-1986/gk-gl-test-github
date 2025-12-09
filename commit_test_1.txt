@@ -1,3 +1,4 @@
 ﻿Commit 1 - Test data for max commit selection
 Line 2 - Locked commits behavior test - First commit
 Line 3 - Locked commits behavior test - Second commit
+Line 4 - Locked commits behavior test - Third commit
