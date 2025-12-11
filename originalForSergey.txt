@@ -1,3 +1,4 @@
 Line 1: Original content for Sergey
 Line 2: Testing hard links inside repo
 Line 3: GitLens should work here
+Line 4: Modified through hardlink
