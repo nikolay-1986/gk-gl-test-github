@@ -1,1 +1,2 @@
 Branch2: commit 1
+Branch2: commit 2
