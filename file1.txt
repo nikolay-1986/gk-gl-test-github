@@ -1,7 +1,1 @@
-This is the initial content of file1.txt
-It will be modified for stash testing.
-Line 3 content
-Line 4 content
-Line 5 content
-Line 6 content
-Line 7 content
+Content for Multi-Select update 1 into file 1
