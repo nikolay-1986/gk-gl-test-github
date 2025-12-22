@@ -1,3 +1,4 @@
 Multi-file test 2
 This is the second file in a multi-file add operation test.
 Different content to verify separate file handling.
+Test text to multi2.txt> multi2.txt
