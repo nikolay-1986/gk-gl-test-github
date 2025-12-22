@@ -1,0 +1,10 @@
+Steps for testing:
+Select commits that include binary file changes
+Open via 'Recompose Selected Commits'
+Review in Composer
+Attempt to recompose
+Expected result:
+Composer loads commits successfully
+Binary files shown with appropriate indicator (e.g., 'Binary file changed')
+AI recompose handles binary files gracefully (skips or notes them)
+No errors or crashes

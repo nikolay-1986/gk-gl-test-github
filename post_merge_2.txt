@@ -1,0 +1,2 @@
+Post-merge commit 2
+This is the second commit after the merge.

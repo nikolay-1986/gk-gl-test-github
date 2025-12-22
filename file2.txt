@@ -1,1 +1,6 @@
-Test text to File 2
+This is the initial content of file2.txt
+It will be staged for stash testing.
+Line 3 content
+Line 4 content
+Verify Maximize Button Presence
+Reset Changes Behavior - Re-select First Draft

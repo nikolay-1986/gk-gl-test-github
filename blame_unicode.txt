@@ -1,0 +1,5 @@
+Line 1: Unicode test with émojis 🚀 and symbols ñáéíóú
+Line 2: 中文测试内容 Chinese characters for testing
+Line 3: Русский текст для тестирования Russian text
+Line 4: العربية النص للاختبار Arabic text for testing
+Line 5: Ελληνικό κείμενο για δοκιμή Greek text
