@@ -1,2 +1,3 @@
 Already staged test file
 New test content line for testing #4899 - Fix focused commit styling in composer
+Line 3 - New test content line for testing #4899 - Fix focused commit styling in composer

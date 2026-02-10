@@ -1,1 +1,2 @@
 ﻿Commit 5 - Test data for max commit selection
+Line 2 - Test line for verification of #4898

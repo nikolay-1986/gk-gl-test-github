@@ -1,1 +1,2 @@
 ﻿Commit 2 - Test data for max commit selection
+Commit 3 - New test content line for testing #4899 - Fix focused commit styling in composer
