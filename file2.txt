@@ -4,3 +4,4 @@ Line 3 content
 Line 4 content
 Verify Maximize Button Presence
 Reset Changes Behavior - Re-select First Draft
+New line for testing Git Log Error on the saving a file.
