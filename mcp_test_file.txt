@@ -1,0 +1,38 @@
+MCP GitKraken Tools Testing File
+==================================
+
+Test Date: November 6, 2025
+CLI Version: v3.1.47-rc.1
+Branch: smoke-on-cli-v3147-rc1
+
+This file is created to test the following MCP GitKraken tools:
+
+1. mcp_gitkraken_git_add_or_commit
+   - Purpose: Add files to staging and commit changes
+   - Test: This file should be added and committed using this tool
+
+2. mcp_gitkraken_git_checkout
+   - Purpose: Switch between branches
+   - Test: Already tested by switching to this branch
+
+3. mcp_gitkraken_pull_request_create
+   - Purpose: Create pull requests programmatically
+   - Test: Will create a PR from this branch to main
+
+Test Content:
+-------------
+Line 1: Initial test content
+Line 2: Testing Unicode support - Проверка Unicode символов
+Line 3: Special characters: @#$%^&*()
+Line 4: Emoji test: 🚀 ✅ 🔧 💻
+Line 5: Testing commit functionality
+
+Expected workflow:
+1. ✅ Create branch "smoke-on-cli-v3147-rc1"
+2. ✅ Checkout to new branch
+3. ✅ Create this test file
+4. ⏳ Add file to staging (mcp_gitkraken_git_add_or_commit)
+5. ⏳ Commit changes (mcp_gitkraken_git_add_or_commit)
+6. ⏳ Create pull request (mcp_gitkraken_pull_request_create)
+
+End of test file.
