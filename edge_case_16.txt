@@ -1,1 +1,0 @@
-Edge Case - Sticky Headers with Rapid Scrolling
